@@ -64,7 +64,7 @@ resume-screening/
 ### 5. ATS Compatibility Score
 ![ATS Check](screenshots/ats_score.png)
 
-> ⚠️ Replace the paths with your actual screenshots from the `screenshots/` folder.
+> 
 
 ---
 

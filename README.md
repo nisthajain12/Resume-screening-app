@@ -10,14 +10,14 @@ A web-based application that predicts the best-fit role based on skills extracte
 
 ```
 resume-screening/
-├── app.py # Main Streamlit app
-├── src/
-│ ├── model.pkl # Pre-trained ML model
-│ ├── vectorizer.pkl # Vectorizer for feature extraction
-│ └── role_skills.pkl # Role-skill dictionary
-├── requirements.txt # Python dependencies
-├── screenshots/ # Screenshots for README
-└── README.md # Project documentation
+  1. app.py # Main Streamlit app
+  2. src/
+     a. model.pkl # Pre-trained ML model
+     b. vectorizer.pkl # Vectorizer for feature extraction
+     c. role_skills.pkl # Role-skill dictionary
+  3. requirements.txt # Python dependencies
+  4. screenshots/ # Screenshots for README
+  5. README.md # Project documentation
 ```
 
 

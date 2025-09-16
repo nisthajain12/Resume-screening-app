@@ -6,24 +6,21 @@
 
 A web-based application that predicts the best-fit role based on skills extracted from a resume, suggests skills to master, provides learning resources, lists top LeetCode questions for the role, and checks ATS compatibility.
 
----
+## 🧱 Folder Structure
 
-## 🗂 Project Folder Structure
-
+```
 resume-screening/
-│
 ├── app.py # Main Streamlit app
 ├── src/
 │ ├── model.pkl # Pre-trained ML model
 │ ├── vectorizer.pkl # Vectorizer for feature extraction
 │ └── role_skills.pkl # Role-skill dictionary
 ├── requirements.txt # Python dependencies
+├── screenshots/ # Screenshots for README
 └── README.md # Project documentation
+```
 
-yaml
-Copy code
 
----
 
 ## 🚀 Features
 

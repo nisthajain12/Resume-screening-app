@@ -6,6 +6,12 @@
 
 A web-based application that predicts the best-fit role based on skills extracted from a resume, suggests skills to master, provides learning resources, lists top LeetCode questions for the role, and checks ATS compatibility.
 
+## 📄 Deployed app
+
+Access it by- https://resume-screening-app-5itp7tdgz2kfm9dvathbzd.streamlit.app
+
+
+
 ## 🧱 Folder Structure
 
 ```
